@@ -18,9 +18,9 @@
 
 ![Screenshot](./assets/takenote-light.png)
 
-
+</br>
 <p> Bailey was here! </p>
-
+</br>
 ## Features
 
 - **Plain text notes** - take notes in an IDE-like environment that makes no assumptions
